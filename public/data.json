@@ -1,0 +1,12 @@
+[  
+    {"name":"Butter Cake", "price":549, "id":1, "desc":"Bake this easy buttermilk-raspberry butter cake into a layer cake, sheet cake, or even a DIY wedding cake.", "image":"https://assets.winni.in/product/primary/2014/6/31204.jpeg?dpr=1&w=400"},  
+    {"name":"Cream Cake", "price":749, "id":2, "desc":"Once you know the basic ratio, you can make pound cake in any flavor you want.", "image":"https://assets.winni.in/product/primary/2014/6/30861.jpeg?dpr=1&w=400"},  
+    {"name":"Sponge Cake", "price":399, "id":3, "desc":"This sponge is filled with a Meyer lemon curd and served with lavender cream.", "image":"https://assets.winni.in/product/primary/2021/12/57182.jpeg?dpr=1&w=400"},
+    {"name":"Swirl", "price":699, "id":4, "desc":"Airy genoise cake layers are light enough to stack with whipped cream and berries for an impressive summer dessert.", "image":"https://assets.winni.in/product/primary/2014/8/37740.jpeg?dpr=1&w=400"},
+    {"name":"Chiffon Cake", "price":549, "id":5, "desc":"This chiffon cake is scented with cardamom, lemon, and rose water.", "image":"https://assets.winni.in/product/primary/2014/8/42980.jpeg?dpr=1&w=400"},  
+    {"name":"Butter Cake", "price":549, "id":6, "desc":"Bake this easy buttermilk-raspberry butter cake into a layer cake, sheet cake, or even a DIY wedding cake.", "image":"https://assets.winni.in/product/primary/2014/6/31204.jpeg?dpr=1&w=400"},  
+    {"name":"Cream Cake", "price":749, "id":7, "desc":"Once you know the basic ratio, you can make pound cake in any flavor you want.", "image":"https://assets.winni.in/product/primary/2014/6/30861.jpeg?dpr=1&w=400"},  
+    {"name":"Sponge Cake", "price":399, "id":8, "desc":"This sponge is filled with a Meyer lemon curd and served with lavender cream.", "image":"https://assets.winni.in/product/primary/2021/12/57182.jpeg?dpr=1&w=400"},
+    {"name":"Swirl", "price":699, "id":9, "desc":"Airy genoise cake layers are light enough to stack with whipped cream and berries for an impressive summer dessert.", "image":"https://assets.winni.in/product/primary/2014/8/37740.jpeg?dpr=1&w=400"},
+    {"name":"Chiffon Cake", "price":549, "id":10, "desc":"This chiffon cake is scented with cardamom, lemon, and rose water.", "image":"https://assets.winni.in/product/primary/2014/8/42980.jpeg?dpr=1&w=400"}   
+]
